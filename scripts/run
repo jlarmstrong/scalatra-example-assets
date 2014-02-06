@@ -1,0 +1,2 @@
+#!/bin/sh
+./sbt "container:start" "~ ;copy-resources;aux-compile"

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups xmlns="http://www.isdc.ro/wro">
+    <group name='core'>
+        <css minimize="false">/css/bootstrap.min.css</css>
+        <css minimize="false">/css/bootstrap-theme.min.css</css>
+        <css minimize="false">/css/bootstrap-glyphicons.css</css>
+        <css minimize="true">/css/app.css</css>
+        <js minimize="false">/js/jquery.min.js</js>
+    </group>
+    <group name='bottom'>
+        <js minimize="true">/js/bootstrap.min.js</js>
+    </group>
+</groups>
