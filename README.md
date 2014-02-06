@@ -1,6 +1,6 @@
 # My Example Assets #
 
-This example is provided to corrispond with the OmniSper, Inc. [blog post](http://omnispear.com/blog) on Scalatra ssset management. It provides a method for cache busting using build numbers from your CI system.
+This example is provided to corrispond with the OmniSper, Inc. [blog post](http://omnispear.com/blog/2014/02/06/designing-website-asset-caching-with-scalatra/) on Scalatra ssset management. It provides a method for cache busting using build numbers from your CI system.
 
 ## Build & Run ##
 
